@@ -32,8 +32,8 @@ This project is a **Streamlit-based chatbot application** that allows users to u
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rag-document-chatbot.git
-cd rag-document-chatbot
+git clone https://github.com/itsvishal1012/ChatBot_RAG_Q-A.git
+cd ChatBot_RAG_Q-A
 ```
 
 ### 2. Create & Activate a Virtual Environment (optional but recommended)
@@ -117,4 +117,3 @@ The app will retrieve the most relevant content and Gemini will generate a conci
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute.
